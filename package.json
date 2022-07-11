@@ -1,0 +1,26 @@
+{
+  "name": "table-com-typescript",
+  "version": "1.0.0",
+  "description": "Table usando TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandergale/Table-de-pessoas-com-TypeScript.git"
+  },
+  "author": "wandergale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wandergale/Table-de-pessoas-com-TypeScript/issues"
+  },
+  "homepage": "https://github.com/wandergale/Table-de-pessoas-com-TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
